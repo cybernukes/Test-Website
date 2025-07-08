@@ -1,2 +1,0 @@
-Hello, this is a full-stack development 7-day program by Arham IT Solution
-Today, we are going to discuss GitHub.
